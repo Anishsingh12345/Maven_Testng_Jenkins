@@ -14,7 +14,7 @@ public class config {
 	
 	public config()
 	{
-		f = new File("C:\\Users\\Acer-Aspire7\\eclipse-workspace\\com.project\\configuration\\config.properties");
+		f = new File("C:\\Users\\Acer-Aspire7\\eclipse-workspace\\com.pro\\configuration\\config.properties");
 		try {
 			fis = new FileInputStream(f);
 		} catch (FileNotFoundException e) {
